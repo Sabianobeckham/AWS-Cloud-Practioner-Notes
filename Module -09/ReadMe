@@ -1,0 +1,12 @@
+One lesson that stood out to me is that cloud security is a shared responsibility: AWS secures the cloud infrastructure, while customers are responsible for securing what they build and store in the cloud.
+
+Module 9
+AWS Security & Identity Management 
+
+Today I focused on one of the most important aspects of cloud computing: security.
+My one page summary covers concepts such as IAM, authentication vs authorization, the principle of least privilege, network protection, encryption, AWS Shield, AWS WAF, GuardDuty, Macie, Inspector, Security Hub, and the AWS Shared Responsibility Model.
+Writing these notes by hand helps me slow down, connect concepts, and explain them in my own words instead of simply reading slides.
+I'm documenting this journey not to claim expertise, but to build a solid foundation in cloud computing—one module at a time. Every summary is another step toward becoming a better cloud professional.
+If you've worked with AWS, I'd be interested to know: Which AWS security service do you think every beginner should understand first, and why?
+
+#AWS #CloudComputing #CloudSecurity #AWSSkillBuilder #LearningInPublic #GitHub #TechStudent #ContinuousLearning
